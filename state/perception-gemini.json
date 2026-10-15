@@ -1,0 +1,503 @@
+{
+  "ts": "2026-10-15T20:18:37.736Z",
+  "me": "GeminiPal",
+  "position": {
+    "x": -929.7,
+    "y": 53,
+    "z": 252.3
+  },
+  "health": 20,
+  "food": 20,
+  "isMoving": false,
+  "players": [
+    {
+      "name": "GeminiPal",
+      "x": -929.7,
+      "y": 53,
+      "z": 252.3,
+      "distance": 0
+    }
+  ],
+  "entities": [
+    {
+      "name": "creeper",
+      "kind": "Hostile mobs",
+      "x": -929.7,
+      "y": 53.3,
+      "z": 268.5,
+      "distance": 16.2
+    },
+    {
+      "name": "creeper",
+      "kind": "Hostile mobs",
+      "x": -942.7,
+      "y": 39,
+      "z": 250.7,
+      "distance": 19.2
+    },
+    {
+      "name": "witch",
+      "kind": "Hostile mobs",
+      "x": -940.8,
+      "y": 37,
+      "z": 250.7,
+      "distance": 19.5
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -941.9,
+      "y": 38,
+      "z": 249,
+      "distance": 19.6
+    },
+    {
+      "name": "spider",
+      "kind": "Hostile mobs",
+      "x": -939.3,
+      "y": 69.1,
+      "z": 259.3,
+      "distance": 20
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -942.7,
+      "y": 38,
+      "z": 249.1,
+      "distance": 20.1
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -942.7,
+      "y": 38,
+      "z": 248.3,
+      "distance": 20.2
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -939.3,
+      "y": 35,
+      "z": 247.3,
+      "distance": 21
+    },
+    {
+      "name": "creeper",
+      "kind": "Hostile mobs",
+      "x": -941.4,
+      "y": 36,
+      "z": 248.3,
+      "distance": 21
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -940.7,
+      "y": 35,
+      "z": 249.2,
+      "distance": 21.3
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -940,
+      "y": 35,
+      "z": 247.3,
+      "distance": 21.4
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -940.7,
+      "y": 35,
+      "z": 248.6,
+      "distance": 21.4
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -940.7,
+      "y": 35,
+      "z": 248.1,
+      "distance": 21.5
+    },
+    {
+      "name": "witch",
+      "kind": "Hostile mobs",
+      "x": -940.7,
+      "y": 35,
+      "z": 247.3,
+      "distance": 21.7
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -919.3,
+      "y": 29,
+      "z": 253.7,
+      "distance": 26.2
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -903.5,
+      "y": 62.4,
+      "z": 255.5,
+      "distance": 28.1
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -905.9,
+      "y": 54,
+      "z": 267.8,
+      "distance": 28.4
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -902.8,
+      "y": 62.4,
+      "z": 255.2,
+      "distance": 28.6
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -904.6,
+      "y": 54.5,
+      "z": 266.1,
+      "distance": 28.6
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -905.1,
+      "y": 54,
+      "z": 267.2,
+      "distance": 28.8
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -905.4,
+      "y": 54,
+      "z": 267.8,
+      "distance": 28.8
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -902.6,
+      "y": 62.6,
+      "z": 255.7,
+      "distance": 29
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -902.3,
+      "y": 62.5,
+      "z": 254.4,
+      "distance": 29.1
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -904.8,
+      "y": 54.4,
+      "z": 267.5,
+      "distance": 29.2
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -902.3,
+      "y": 62.6,
+      "z": 255.1,
+      "distance": 29.2
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -902,
+      "y": 62.5,
+      "z": 256.3,
+      "distance": 29.6
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -904.2,
+      "y": 53.8,
+      "z": 267.7,
+      "distance": 29.8
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -903.4,
+      "y": 54.5,
+      "z": 267.4,
+      "distance": 30.3
+    },
+    {
+      "name": "bat",
+      "kind": "UNKNOWN",
+      "x": -932.2,
+      "y": 23.1,
+      "z": 242.3,
+      "distance": 31.6
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -920.4,
+      "y": 60,
+      "z": 282.9,
+      "distance": 32.8
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -921,
+      "y": 60,
+      "z": 283.3,
+      "distance": 32.9
+    },
+    {
+      "name": "bat",
+      "kind": "UNKNOWN",
+      "x": -952.2,
+      "y": 28.2,
+      "z": 243.2,
+      "distance": 34.7
+    },
+    {
+      "name": "spider",
+      "kind": "Hostile mobs",
+      "x": -963.4,
+      "y": 69,
+      "z": 246.8,
+      "distance": 37.7
+    },
+    {
+      "name": "bat",
+      "kind": "UNKNOWN",
+      "x": -926.5,
+      "y": 17,
+      "z": 235.7,
+      "distance": 39.8
+    },
+    {
+      "name": "enderman",
+      "kind": "Hostile mobs",
+      "x": -965.3,
+      "y": 36,
+      "z": 260.7,
+      "distance": 40.3
+    },
+    {
+      "name": "enderman",
+      "kind": "Hostile mobs",
+      "x": -928.3,
+      "y": 23,
+      "z": 222.4,
+      "distance": 42.4
+    },
+    {
+      "name": "skeleton",
+      "kind": "Hostile mobs",
+      "x": -945.8,
+      "y": 73,
+      "z": 287.8,
+      "distance": 43.9
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -884.8,
+      "y": 58.8,
+      "z": 262.2,
+      "distance": 46.4
+    },
+    {
+      "name": "spider",
+      "kind": "Hostile mobs",
+      "x": -970,
+      "y": 69,
+      "z": 235,
+      "distance": 46.6
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -884,
+      "y": 59.4,
+      "z": 262.1,
+      "distance": 47.1
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -883.5,
+      "y": 58.5,
+      "z": 262.6,
+      "distance": 47.7
+    },
+    {
+      "name": "pig",
+      "kind": "Passive mobs",
+      "x": -973.7,
+      "y": 67,
+      "z": 279.8,
+      "distance": 53.8
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -882.3,
+      "y": 27,
+      "z": 251.5,
+      "distance": 54.1
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -874.4,
+      "y": 52,
+      "z": 259.4,
+      "distance": 55.8
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -874.2,
+      "y": 52,
+      "z": 258.6,
+      "distance": 55.9
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -873.5,
+      "y": 52,
+      "z": 259.5,
+      "distance": 56.7
+    },
+    {
+      "name": "sheep",
+      "kind": "Passive mobs",
+      "x": -985.2,
+      "y": 66,
+      "z": 262.8,
+      "distance": 57.9
+    },
+    {
+      "name": "sheep",
+      "kind": "Passive mobs",
+      "x": -956.1,
+      "y": 67,
+      "z": 201.6,
+      "distance": 58.9
+    },
+    {
+      "name": "skeleton",
+      "kind": "Hostile mobs",
+      "x": -877.6,
+      "y": 26,
+      "z": 257.3,
+      "distance": 58.9
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -912.9,
+      "y": 30,
+      "z": 304.3,
+      "distance": 59.3
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -912.3,
+      "y": 30,
+      "z": 304.3,
+      "distance": 59.5
+    },
+    {
+      "name": "bat",
+      "kind": "UNKNOWN",
+      "x": -983.2,
+      "y": 68,
+      "z": 274.9,
+      "distance": 59.9
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -912.3,
+      "y": 30,
+      "z": 304.9,
+      "distance": 60
+    },
+    {
+      "name": "zombified_piglin",
+      "kind": "Hostile mobs",
+      "x": -912.9,
+      "y": 30,
+      "z": 305.3,
+      "distance": 60.2
+    },
+    {
+      "name": "spider",
+      "kind": "Hostile mobs",
+      "x": -875.4,
+      "y": 27,
+      "z": 249.8,
+      "distance": 60.2
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -912.2,
+      "y": 30,
+      "z": 305.5,
+      "distance": 60.6
+    },
+    {
+      "name": "cod",
+      "kind": "Passive mobs",
+      "x": -869.5,
+      "y": 56,
+      "z": 258.5,
+      "distance": 60.6
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -912.3,
+      "y": 30,
+      "z": 306,
+      "distance": 60.9
+    },
+    {
+      "name": "zombie",
+      "kind": "Hostile mobs",
+      "x": -919.7,
+      "y": 30,
+      "z": 308.4,
+      "distance": 61.5
+    },
+    {
+      "name": "zombified_piglin",
+      "kind": "Hostile mobs",
+      "x": -912.3,
+      "y": 30,
+      "z": 306.6,
+      "distance": 61.5
+    }
+  ]
+}
